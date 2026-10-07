@@ -1,4 +1,4 @@
--- Explanatory Data Analysis
+-- Data Exploration Analysis
 
 SELECT *
 FROM layoffs_staging2;
