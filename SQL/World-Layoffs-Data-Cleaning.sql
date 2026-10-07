@@ -1,11 +1,9 @@
--- DATA CLEANING
+-- LAYOFFS DATA CLEANING
 
 SELECT *
 FROM layoffs;
 
--- 4. remove unwanted columns
-
--- Remove Duplicates
+-- Remove unwanted columns and Duplicates
 
 
 CREATE TABLE layoffs_staging
