@@ -6,7 +6,7 @@ FROM NashvilleHousing$;
 SELECT SaleDate, CONVERT(DATE, SaleDate)
 FROM NashvilleHousing$;
 
-ALTER TABLE NashvillHousing$
+ALTER TABLE NashvilleHousing$
 ADD saleDateConverted DATE;
 
 UPDATE NashvilleHousing$
