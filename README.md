@@ -98,7 +98,7 @@ Data-Analyst-Portfolio-Projects/
 │   ├── Data profession survey breakdown Dashboard.pbix
 │   └── Power BI - Final Project.xlsx
 │
-├── PhytonProjectFiles/
+├── PythonProjectFiles/
 │   ├── movie_corrlation_project.ipynb
 │   └── phyton dataset/
 │       └── movies.csv
@@ -124,11 +124,7 @@ Some projects require their corresponding datasets and appropriate database setu
 
 ## About Me
 
-I'm currently completing an Associate Degree in Database Administration and Web Development at Hawassa Polytechnic College, with an expected graduation date of December 2026.
-
-I'm developing my skills in data analytics through practical projects using SQL, Python, Excel, Tableau, and Power BI.
-
-I'm interested in **Junior Data Analyst and entry-level Data Analyst opportunities**, particularly international remote positions.
+I'm currently developing my skills in data analytics through practical projects using SQL, Python, Excel, Tableau, and Power BI.
 
 ## Connect With Me
 
